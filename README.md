@@ -5,7 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealMyeong&show_icons=true&theme=dark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsaud222)](https://solved.ac/wlsaud222/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={wlsaud222}&theme=warm)
+
 
 
 
